@@ -1,0 +1,44 @@
+.butn
+{
+    border-radius: 40px !important;
+    background-color: orange !important;
+    border: none !important;
+    color: black !important;
+    font-weight: bold !important;
+}
+.ic{
+    height: 200px;
+    background-size: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.se{
+    text-align: center;
+    margin-top: 54px;
+    margin-left: 150px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+}
+.ce{
+    font-size: 4rem;
+    color: orange;
+}
+.h{
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.p{
+    color: white;
+}
+.enlop{
+    font-size: 3rem;
+    margin-top: 20px;
+    color: #5000ca;
+}
+.cir{
+    border-radius: 30px;
+    background-color: #a6abb4a1;
+    border-color: white;
+}
